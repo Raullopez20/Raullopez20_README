@@ -36,11 +36,11 @@ Soy un apasionado de la informática con experiencia en desarrollo de aplicacion
 ## 📂 Proyectos Destacados
 ### **App de Gimnasio**
 Gestión de usuarios y rutinas para gimnasios. Incluye registro de usuarios, asignación de roles y seguimiento de entrenamientos.  
-📥 [Descargar](download/GYMBROS.zip) | [Ver en GitHub](https://github.com/Raullopez20)
+📥 [Ver en GitHub](https://github.com/Raullopez20)
 
 ### **Manage My Inventory App**
 Aplicación para la gestión de inventarios con monitoreo en tiempo real, gestión de proveedores y control de seguridad.  
-📥 [Descargar](download/file.zip) | [Ver en GitHub](https://github.com/Raullopez20)
+📥 [Ver en GitHub](https://github.com/Raullopez20)
 
 ## 📞 Contáctame
 ¡Estoy abierto a nuevas oportunidades laborales y colaboraciones! No dudes en ponerte en contacto conmigo:  

@@ -10,8 +10,6 @@ Soy un apasionado de la informática con experiencia en desarrollo de aplicacion
 - Soluciones eficientes para **backend**.
 - Implementaciones atractivas y funcionales en **frontend**.
 
-📄 [Descargar CV](download/mi_cv.pdf)
-
 ## 🛠️ Habilidades y Herramientas
 ### Lenguajes y Tecnologías:
 - **Java** | **HTML** | **CSS** | **JavaScript** | **Angular** | **Kotlin** | **MySQL**

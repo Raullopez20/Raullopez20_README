@@ -42,6 +42,10 @@ Gestión de usuarios y rutinas para gimnasios. Incluye registro de usuarios, asi
 Aplicación para la gestión de inventarios con monitoreo en tiempo real, gestión de proveedores y control de seguridad.  
 📥 [Ver en GitHub](https://github.com/Raullopez20)
 
+### **Landing Page Infinity-Smartwatch**
+Landing page de un reloj con diferentes animaciones y con capacidad de enviar mensajes al usuario y diferentes tipos de precios para el reloj.
+📥 [Ver en GitHub](https://github.com/Raullopez20)
+
 ## 📞 Contáctame
 ¡Estoy abierto a nuevas oportunidades laborales y colaboraciones! No dudes en ponerte en contacto conmigo:  
 - **LinkedIn:** [Raúl López](https://www.linkedin.com/in/raul-lopez-ricarte-40011a318)  

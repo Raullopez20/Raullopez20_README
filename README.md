@@ -1,36 +1,62 @@
-# 👨‍💻 Raúl López Ricarte - Desarrollador Full Stack
+# Raúl López Ricarte
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Backend%20Developer%20|%20Frontend%20Enthusiast&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creando%20soluciones%20digitales%20innovadoras&descAlignY=55&descSize=16" width="100%"/>
+</div>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Desarrollador+Web+Full+Stack;Backend+Developer+%7C+Frontend+Enthusiast;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas)
-
-[![GitHub followers](https://img.shields.io/github/followers/Raullopez20?style=social)](https://github.com/Raullopez20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raul-lopez-ricarte-40011a318)
-[![Email](https://img.shields.io/badge/Email-raullopez20r%40gmail.com-red?style=flat&logo=gmail)](mailto:raullopez20r@gmail.com)
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+Junior;Backend+%E2%9D%A4%EF%B8%8F+Java+%7C+Spring+Boot;Frontend+%E2%9C%A8+React+%7C+Astro+%7C+Angular;Siempre+aprendiendo+%F0%9F%9A%80)](https://git.io/typing-svg)
+  
+  **`Desarrollador Web Full Stack Junior`**  
+  *Especializado en backend con experiencia en sector financiero*
+  
+  <br/>
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logoColor=white)](https://raullopez20.github.io/PORTAFOLIO_RAUL_LOPEZ)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raullopez20r)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raullopez20r@gmail.com)
+  [![Download CV](https://img.shields.io/badge/📄_Descargar_CV-34D399?style=for-the-badge&logoColor=white)](link-to-cv)
+  
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Raullopez20&color=3B82F6&style=flat-square&label=Visitantes+del+perfil)
+  
 </div>
 
 ---
 
-## 🚀 Sobre mí
-
-¡Hola! 👋 Soy **Raúl López Ricarte**, un desarrollador Full Stack especializado en **backend** con gran pasión por el **frontend** y el diseño web. Mi objetivo es crear aplicaciones eficientes, escalables y con una experiencia de usuario excepcional.
+## 👨‍💻 Sobre mí
 
 ```javascript
 const raulLopez = {
-    location: "Valencia, España 🇪🇸",
-    languages: ["Español (Nativo)", "Inglés (Intermedio)"],
-    currentFocus: "Desarrollo de Aplicaciones Multiplataforma",
-    passion: "Backend Development & Frontend Design",
-    motto: "El aprendizaje nunca se detiene 🚀"
+    nombre: "Raúl López Ricarte",
+    ubicacion: "Valencia, España 🇪🇸",
+    edad: 22,
+    
+    especialidad: "Backend Development",
+    pasion: "Frontend & UX/UI Design",
+    
+    formacion: {
+        actual: "Grado Superior DAM (2023-2025)",
+        anterior: "Grado Medio SMR (2021-2023)"
+    },
+    
+    experiencia: {
+        "Caja Rural Central": "Técnico IT | Infraestructura & Sistemas",
+        "Freelance": "Desarrollador Web | Proyectos institucionales"
+    },
+    
+    filosofia: "El aprendizaje nunca se detiene 🚀",
+    estado: "Disponible para nuevos proyectos ✅"
 };
 ```
 
-### 📍 Actualmente me especializo en:
-- 🔧 Desarrollo de aplicaciones **multiplataforma** (DAM)
-- ⚙️ Soluciones eficientes para **backend**
-- 🎨 Implementaciones atractivas y funcionales en **frontend**
-- 🏢 Sistemas empresariales y gestión de infraestructura
+### 🎯 Actualmente enfocado en:
+- **Backend sólido** con Java, Spring Boot y arquitecturas escalables
+- **Frontend moderno** con React, Angular y frameworks como Astro
+- **Desarrollo multiplataforma** para Android con Kotlin
+- **Infraestructura IT** y administración de sistemas empresariales
 
 ---
 
@@ -38,164 +64,266 @@ const raulLopez = {
 
 <div align="center">
 
-### 💻 Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+### **Backend & Core**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=api&logoColor=white)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### **Frontend & UI**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Backend & Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white)
-
-### 🛠️ Herramientas
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+### **Mobile & Tools**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
+
+<details>
+<summary><b>📊 Nivel de competencias</b></summary>
+<br>
+
+| Tecnología | Nivel | Experiencia |
+|:-----------|:------|:------------|
+| **Java** | ████████░░ 80% | 1+ años - Desarrollo backend, APIs REST |
+| **MySQL** | ███████░░░ 75% | Diseño de BD, consultas complejas |
+| **TypeScript** | ███████░░░ 70% | Proyectos frontend con tipado fuerte |
+| **TailwindCSS** | ██████░░░░ 65% | Framework CSS para UI moderna |
+| **JavaScript** | ██████░░░░ 65% | Desarrollo frontend y backend |
+| **React** | ██████░░░░ 60% | SPAs y componentes reutilizables |
+| **Kotlin** | █████░░░░░ 55% | Desarrollo Android nativo |
+| **Astro** | █████████░ 90% | Framework moderno para sitios estáticos |
+
+</details>
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### 🏦 **Técnico en Caja Rural Central**
-*Enero 2023 – Junio 2023 | Enero 2025 – Junio 2025*
-
-- 👥 **Administración de usuarios** y grupos mediante Active Directory
-- 🛠️ **Soporte técnico** y gestión de incidencias de infraestructura informática y sistemas BMS
-- 🤖 **Automatización** y tareas de mantenimiento en entornos corporativos
-- 🔐 **Colaboración** en entornos de seguridad y gestión de datos sensibles
-
-### 💻 **Desarrollador Web Freelance**
-*Marzo 2025 - Junio 2025*
-
-**Proyecto oficial para Comparsa Moros Almohábenos**
-- 🌐 Creación y despliegue de **web institucional** completa
-- 🔧 **Stack utilizado:** Astro, React, TypeScript, TailwindCSS, MySQL
-- 📊 Control de versiones con **GitHub** y despliegue con **GitHub Pages**
-- ⏱️ Proyecto desarrollado en **3 meses**: diseño visual, zona de socios, sistema de galería y calendario
-
----
-
-## 🎓 Formación Académica
-
+<div align="center">
 <table>
 <tr>
-<td>
+<td align="center" width="50%">
 
-**🎯 Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-📍 *IES Las Espeñetas – Generalitat Valenciana*  
-📅 *2023-2025*
+### 🏦 **Caja Rural Central**
+**Técnico en Infraestructura IT**  
+*Enero 2023 – Junio 2023 | Enero 2025 – Junio 2025*
+
+🔹 **Active Directory** - Administración de usuarios y grupos  
+🔹 **Soporte BMS** - Gestión de incidencias críticas  
+🔹 **Automatización** - Scripts y mantenimiento  
+🔹 **Seguridad** - Gestión de datos sensibles bancarios  
 
 </td>
-<td>
+<td align="center" width="50%">
 
-**🔧 Grado Medio en Sistemas Microinformáticos y Redes (SMR)**  
-📍 *IES Las Espeñetas – Generalitat Valenciana*  
-📅 *2021-2023*
+### 💻 **Freelance Developer**
+**Desarrollador Web Full Stack**  
+*Marzo 2025 - Junio 2025*
+
+🔹 **Proyecto oficial** para Comparsa Moros Almohábenos  
+🔹 **Stack completo:** Astro + React + TypeScript + MySQL  
+🔹 **3 meses** de desarrollo completo  
+🔹 **GitHub Pages** deployment + SEO optimizado  
 
 </td>
 </tr>
 </table>
-
----
-
-## 🌟 Habilidades Profesionales
-
-<div align="center">
-
-| **Técnicas** | **Blandas** |
-|:---:|:---:|
-| Metodologías Ágiles | Adaptabilidad |
-| Resolución de problemas | Trabajo en equipo |
-| Arquitectura de software | Rápido aprendizaje |
-| Gestión de bases de datos | Responsabilidad |
-| APIs RESTful | Creatividad |
-
 </div>
 
 ---
 
-## 📂 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-### 🏋️‍♂️ **GymBros App**
-> Aplicación completa de gestión para gimnasios
+<div align="center">
 
-- **Funcionalidades:** Gestión de usuarios, asignación de roles, seguimiento de entrenamientos
-- **Tecnologías:** Java, MySQL, Android Studio
-- **Estado:** ✅ Completado
+### 📝 **Daily Note**
+*Aplicación de notas diarias profesional*
 
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Raullopez20/GymBros_App)
+**React** • **TypeScript** • **TailwindCSS** • **MySQL** • **Prisma** • **Python**
 
-### ⌚ **Landing Page Infinity-Smartwatch**
-> Landing page interactiva para producto tecnológico
+Aplicación minimalista para tomar notas diarias con funcionalidades avanzadas de organización, búsqueda inteligente y plantillas personalizables para una experiencia de usuario optimizada.
 
-- **Funcionalidades:** Animaciones avanzadas, sistema de mensajería, gestión de precios
-- **Tecnologías:** HTML5, CSS3, JavaScript, Responsive Design
-- **Estado:** ✅ Completado
+---
 
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Raullopez20/Infinity-Smartwatch)
+### 📁 **GestorDocs**
+*Sistema web de gestión de documentación corporativa*
+
+**React** • **Flask** • **Python** • **MySQL** • **Bootstrap 5** • **CSS3**
+
+Sistema profesional para la gestión centralizada de documentación y manuales corporativos, desarrollado con Flask y diseñado con paleta de colores empresarial moderna.
+
+---
+
+### 🏛️ **Web Oficial Moros Almohábenos**
+*Sitio web institucional para comparsa*
+
+**Astro** • **React** • **TypeScript** • **TailwindCSS** • **MySQL**
+
+Desarrollo completo incluyendo zona de socios, galería multimedia, calendario de eventos y optimización SEO.
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/Raullopez20?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_Ver_todos_los_proyectos-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos los proyectos"/>
+  </a>
+</div>
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raullopez20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raullopez20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
+</div>
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Raullopez20&show_icons=true&theme=tokyonight&count_private=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raullopez20&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B35&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+</div>
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Raullopez20&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raullopez20&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=FF6B35&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
 
-![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=Raullopez20&theme=tokyonight)
+---
+
+## 🎓 Formación & Competencias
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### **📚 Formación Académica**
+🎯 **Grado Superior DAM** *(2023-2025)*  
+*Desarrollo de Aplicaciones Multiplataforma*  
+📍 IES Las Espeñetas - Generalitat Valenciana
+
+🔧 **Grado Medio SMR** *(2021-2023)*  
+*Sistemas Microinformáticos y Redes*  
+📍 IES Las Espeñetas - Generalitat Valenciana
+
+</td>
+<td width="50%">
+
+### **💡 Competencias Profesionales**
+✅ **Metodologías Ágiles** - Scrum, desarrollo iterativo  
+✅ **Resolución de problemas** - Enfoque analítico  
+✅ **Trabajo en equipo** - Colaboración efectiva  
+✅ **Adaptabilidad** - Aprendizaje continuo  
+✅ **Orientación a resultados** - Entrega de calidad  
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📈 Objetivos 2025
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎯 Finalizar DAM] --> B[💼 Backend Senior]
+    B --> C[☁️ Cloud Computing]
+    C --> D[🚀 Arquitecto Software]
+    
+    E[📱 Android Avanzado] --> F[🔄 DevOps]
+    F --> G[🌐 Microservicios]
+    G --> H[👥 Liderazgo Técnico]
+```
+
+**🎯 Corto plazo (2025):**
+- Finalizar Grado Superior DAM con excelencia
+- Especializarse en Spring Boot y microservicios
+- Certificación en AWS/Azure
+- Contribuir a proyectos open source
+
+**🚀 Mediano plazo (2025-2026):**
+- Rol como Backend Developer en empresa tecnológica
+- Dominar arquitecturas cloud nativas
+- Liderar proyectos de desarrollo full stack
 
 </div>
 
 ---
 
-## 📞 ¡Conecta conmigo!
+## 🌟 ¿Por qué trabajar conmigo?
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/64/000000/rocket.png" width="40"/>
+<br><b>Innovación</b>
+<br><small>Siempre busco las mejores soluciones tecnológicas</small>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/64/000000/teamwork.png" width="40"/>
+<br><b>Colaboración</b>
+<br><small>Trabajo efectivo en equipos multidisciplinares</small>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/64/000000/learning.png" width="40"/>
+<br><b>Crecimiento</b>
+<br><small>Aprendizaje continuo y adaptación al cambio</small>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/64/000000/approval.png" width="40"/>
+<br><b>Calidad</b>
+<br><small>Código limpio, mantenible y bien documentado</small>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📞 Conecta conmigo
 
 <div align="center">
 
-¿Tienes un proyecto interesante? ¿Buscas colaborar? ¡Me encantaría conocer más!
+### ¿Tienes un proyecto interesante? ¡Hablemos! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raullopez20r)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raullopez20)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raullopez20r@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)]([https://tu-portfolio.com](https://raullopez20.github.io/PORTAFOLIO_RAUL_LOPEZ/))
+<br/>
 
-**📞 Teléfono:** (+34) 622 58 28 12
+[![Portfolio](https://img.shields.io/badge/🌐_Mi_Portafolio-FF6B35?style=for-the-badge&logoColor=white)](https://raullopez20.github.io/PORTAFOLIO_RAUL_LOPEZ)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raullopez20r)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raullopez20r@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raullopez20)
+
+<br/>
+
+**📍 Ubicación:** Valencia, España  
+**📞 Teléfono:** (+34) 622 58 28 12  
+**💼 Estado:** Disponible para freelance y oportunidades laborales  
+
+<br/>
+
+> *"El mejor momento para empezar fue ayer. El segundo mejor momento es ahora."*  
+> — **Desarrollando el futuro, una línea de código a la vez** ⚡
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💭 Filosofía de trabajo
-
-> *"El aprendizaje nunca se detiene y las mejores soluciones nacen de la creatividad y el trabajo en equipo."*
->
-> — **Raúl López Ricarte**
-
----
-
-⭐ **¡No olvides dar una estrella a mis repositorios si te resultan útiles!** ⭐
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Raullopez20.Raullopez20)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+  
+  **⭐ Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios ⭐**
+  
+  <sub>Hecho con ❤️ usando **Markdown**, **HTML** y mucho **☕**</sub>
+  
+  ![Footer](https://img.shields.io/badge/Thanks_for_visiting!-😊-3B82F6?style=for-the-badge)
+  
 </div>
